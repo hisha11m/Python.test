@@ -1,4 +1,4 @@
-from datetime import datetime
+from  datetime import datetime
 now = datetime.now()
 
 print("Enter your date of birth in the required format DD-MM-YYYY ")
